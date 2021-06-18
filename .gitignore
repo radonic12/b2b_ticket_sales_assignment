@@ -1,0 +1,6 @@
+*.pyc
+*launch.json
+*settings.json
+test.py
+setup.sh
+.DS_store

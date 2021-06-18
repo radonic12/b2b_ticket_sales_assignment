@@ -1,0 +1,15 @@
+<xml>
+    <transaction date="01012021" reseller-id="123"> 
+        <transactionId>1</transactionId>
+        <eventName>Event1</eventName> 
+        <numberOfPurchasedTickets>12345</numberOfPurchasedTickets> 
+        <totalAmount>100.00</totalAmount> 
+        <salesChannel>office</salesChannel>
+        <customer> 
+            <firstName>Adam</firstName> 
+            <lastName>Smith</lastName>
+        </customer> 
+        <officeLocation>Denmark</officeLocation> 
+        <dateCreated>01022021</dateCreated>
+    </transaction> 
+</xml>
